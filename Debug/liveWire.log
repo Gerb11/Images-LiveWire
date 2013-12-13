@@ -1,0 +1,22 @@
+﻿Build started 10/11/2013 2:26:51 PM.
+     1>Project "C:\Workspaces\Images\liveWire\liveWire.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt wire.cpp
+         wire.cpp
+     1>c:\workspaces\images\livewire\wire.cpp(245): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\workspaces\images\livewire\wire.cpp(246): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\workspaces\images\livewire\wire.cpp(269): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\workspaces\images\livewire\wire.cpp(277): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\workspaces\images\livewire\wire.cpp(285): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\workspaces\images\livewire\wire.cpp(293): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Workspaces\Images\liveWire\Debug\liveWire.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Workspaces\Images\liveWire\Debug\liveWire.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Workspaces\Images\liveWire\Debug\liveWire.lib" /MACHINE:X86 /SAFESEH Debug\Basics2D.obj
+         Debug\cs1037lib.obj
+         Debug\main.obj
+         Debug\wire.obj
+         liveWire.vcxproj -> C:\Workspaces\Images\liveWire\Debug\liveWire.exe
+     1>Done Building Project "C:\Workspaces\Images\liveWire\liveWire.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.03
